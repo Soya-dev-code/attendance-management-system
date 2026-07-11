@@ -223,13 +223,6 @@ tkinter
 
 ## Screenshots
 
-Add screenshots of:
-
-- Main Login
-![Main Login](Screenshot 2026-03-05 195650.png)
-
----
-
 ## Learning Outcomes
 
 This project demonstrates:
